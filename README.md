@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm Sharath</h1>
-<h3 align="center">I'm a third-year student with a deep passion for machine learning and everything related to technology. I enjoy exploring new tech, building projects, and learning how advanced algorithms can solve complex problems.</h3>
+<h3 align="center">I’m a fourth-year student interested in backend and platform engineering. I enjoy building cloud-native APIs, developer tools, and scalable services, and working in open-source environments to ship systems used by real users.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathchenna&label=Profile%20views&color=0e75b6&style=flat" alt="sharathchenna" /> </p>
 
